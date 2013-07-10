@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1373481780 source:c:\users\toshiba\documents\codeblocks\tienda\main.cpp
+	<iostream>
+	"tienda.h"
+	"factura.h"
+
+1373479677 source:c:\users\toshiba\documents\codeblocks\tienda\producto.cpp
+	"producto.h"
+
+1373479375 c:\users\toshiba\documents\codeblocks\tienda\producto.h
+	<iostream>
+	<sstream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
+1373481403 source:c:\users\toshiba\documents\codeblocks\tienda\detalle.cpp
+	"detalle.h"
+
+1373481240 c:\users\toshiba\documents\codeblocks\tienda\detalle.h
+	<iostream>
+	<sstream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"producto.h"
+
+1373481829 source:c:\users\toshiba\documents\codeblocks\tienda\factura.cpp
+	"factura.h"
+
+1373481042 c:\users\toshiba\documents\codeblocks\tienda\factura.h
+	<iostream>
+	<sstream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"detalle.h"
+
+1373481559 source:c:\users\toshiba\documents\codeblocks\tienda\tienda.cpp
+	"tienda.h"
+
+1373481930 c:\users\toshiba\documents\codeblocks\tienda\tienda.h
+	<iostream>
+	<sstream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"producto.h"
+
